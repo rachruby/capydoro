@@ -1,1 +1,1 @@
-#Capydoro
+Capydoro is a capybara-themed pomodoro web app that provides lofi music and study timer!
