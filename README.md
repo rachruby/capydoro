@@ -1,4 +1,4 @@
-Capydoro is a capybara-themed pomodoro web app that provides lofi soundtrack background player and a pomodoro study timer (25-minute session)!
+Capydoro is a capybara-themed pomodoro web app that provides lofi soundtrack background player and a pomodoro study timer (25-minute study session)!
 Check it out at: https://rachruby.github.io/capydoro/
 
 
